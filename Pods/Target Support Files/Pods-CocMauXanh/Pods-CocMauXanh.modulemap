@@ -1,0 +1,6 @@
+framework module Pods_CocMauXanh {
+  umbrella header "Pods-CocMauXanh-umbrella.h"
+
+  export *
+  module * { export * }
+}
